@@ -1,4 +1,4 @@
-module github.com/codeedu/go-hexagonal
+module github.com/carlos-hub/arch_hex
 
 go 1.22
 
